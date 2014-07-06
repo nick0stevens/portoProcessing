@@ -1,3 +1,5 @@
+//using processing 2.2.1
+
 import processing.video.*;
 
 Movie movie, movie2;
